@@ -1,4 +1,4 @@
-# Krypt - Web 3.0 Blockchain Application
+SkyFrames - Web 3.0 Blockchain Application
 
 # How to run project
 1.) Create a metemask account
@@ -15,5 +15,3 @@
 
 
 # Link of the Project 
-https://dev.d2rtpogd5l5xpy.amplifyapp.com/
-
