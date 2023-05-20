@@ -12,6 +12,3 @@ SkyFrames - Web 3.0 Blockchain Application
 5.) When you send ethereum other account, make sure that add your first account address as a sender and add second one as a receiver
 
 6.) Therefore, the project will run. 
-
-
-# Link of the Project 
